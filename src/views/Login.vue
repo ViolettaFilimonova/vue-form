@@ -7,6 +7,11 @@
         <input type="submit" value="Войти" >
       </form>
     </section>
+    <tr>
+      <th>id</th>
+      <th>log</th>
+      <th>pass</th>
+    </tr>
   </main>
 </template>
 
@@ -29,6 +34,7 @@ export default {
     }
   }
 }
+
 </script>
 
 <style>
